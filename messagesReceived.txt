@@ -1,0 +1,3 @@
+Hola;Como va?
+Hola!;Todo bien!
+Todo en orden!;Todo Ok!
